@@ -1,2 +1,2 @@
 # cv-app
-CV Application for a basic CV
+Web App for a basic CV Application
