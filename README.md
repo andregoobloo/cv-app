@@ -1,2 +1,3 @@
-# cv-app
-Web App for a basic CV Application
+# CV Web Application
+
+An easy way to build a simple CV
